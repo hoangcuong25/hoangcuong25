@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cường</h1>
-<h3 align="center">🚀 Passionate Web Developer | Fullstack Enthusiast</h3>
+<h3 align="center">🚀 Passionate Web Developer | Fullstack</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63585793/174775027-ecf6b0b0-e65b-4645-bc5c-378c0cc678f2.gif" alt="Coder gif" width="600" height="300">
